@@ -1,0 +1,4 @@
+1) Qui develope l'accessibilite d'un program ?
+	assert result == ["UI designer", "Web Accessibility Specialist"]
+2) Qui benificit d'une meilleure accessibilite ?
+	assert result == ["handicap person", "person with vision problem"]
